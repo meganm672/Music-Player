@@ -1,6 +1,6 @@
 # Music-Player
 
-I built a basic MP3 player from a turitoial on freeCodeCamp using HTML, CSS and Javascript. I learned basis stign and array methods. The project covers fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities.
+I built a basic MP3 player from a turitoial on freeCodeCamp using HTML, CSS and Javascript. I learned basic string and array methods. The project covers fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities.
 
 ## Deployed Site On GitHub Pages!
 [Music Player](https://meganm672.github.io/Music-Player/)
