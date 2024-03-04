@@ -6,7 +6,7 @@ I built a basic MP3 player from a turitoial on freeCodeCamp using HTML, CSS and 
 [Music Player](https://meganm672.github.io/Music-Player/)
 
 ## Access this turtoial to do yourself!
-This tutorial is part of freeCodeCamps Javascript Algorithims and Data Sctructures Course
+This tutorial is part of freeCodeCamp's Javascript Algorithims and Data Sctructures Course
 
 [Free Code Camp Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 
